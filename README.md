@@ -1,2 +1,2 @@
 # learning_myFirstAngular4
-‚Í‚¶‚ß‚Ä‚ÌAngular4‚ÌŠwK“à—e
+ã¯ã˜ã‚ã¦ã®Angular4ã®å­¦ç¿’å†…å®¹
