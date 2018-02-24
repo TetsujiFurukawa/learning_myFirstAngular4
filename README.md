@@ -1,2 +1,2 @@
 # learning_myFirstAngular4
-はじめてのAngular4の学習内容
+「はじめてのAngular4」の学習内容
