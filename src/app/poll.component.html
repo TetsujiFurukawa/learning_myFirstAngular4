@@ -1,0 +1,8 @@
+<h2>中間報告</h2>
+<p>高得票者のみなさんです。さぁ～誰がなるのかな～。</p>
+<table>
+    <tr *ngFor="let member of membersToReport">
+        <td class="name">{{member.name}}さん</td>
+        <td class="voted">{{member.voted}}票</td>
+    </tr>
+</table>
